@@ -17,381 +17,391 @@
 
   "language.warning.admin": {
     "en": "Only administrators can use the !language command.",
-    "fr": "Only administrators can use the !language command.",
+    "fr": "Seuls les administrateurs peuvent utiliser les commandes !language pour changer la langue de l'Automaton.",
     "de": "Only administrators can use the !language command."
   },
   "language.title": {
     "en": "Language management",
-    "fr": "Language management",
+    "fr": "Gestion de la langue du bot",
     "de": "Language management"
   },
   "language.warning.noLang": {
     "en": "You did not specify a language. The following languages are supported:\nen = English\nde = German\nfr = French\n\nSo use `!language en` for example.",
-    "fr": "You did not specify a language. The following languages are supported:\nen = English\nde = German\nfr = French\n\nSo use `!language en` for example.",
+    "fr": "Vous n'avez pas spécifié votre langue. Les langues supportées sont :\nen = Anglais\nde = Allemand\nfr = Frnaçais\n\nSo utilisez `!language fr` par exemple pour mettre le bot en français.",
     "de": "You did not specify a language. The following languages are supported:\nen = English\nde = German\nfr = French\n\nSo use `!language en` for example."
   },
   "language.warning.unknownLang": {
     "en": "The language you specified is unknown. The following languages are supported:\nen = English\nde = German\nfr = French\n\nSo use `!language en` for example.",
-    "fr": "The language you specified is unknown. The following languages are supported:\nen = English\nde = German\nfr = French\n\nSo use `!language en` for example.",
+    "fr": "La langue spécifiée est inconnue. Les langues supportées sont :\nen = Anglais\nde = Allemand\nfr = Frnaçais\n\nUtilisez `!language fr` par exemple pour mettre le bot en français.",
     "de": "The language you specified is unknown. The following languages are supported:\nen = English\nde = German\nfr = French\n\nSo use `!language en` for example."
   },
   "language.changed": {
     "en": "Language changed to {{language}}",
-    "fr": "Language changed to {{language}}",
+    "fr": "Langue changée en {{language}}",
     "de": "Language changed to {{language}}"
   },
 
   "price.instructions.title": {
     "en": "Price check instructions",
-    "fr": "Price check instructions",
+    "fr": "Instruction de vérification des prix",
     "de": "Price check instructions"
   },
   "price.instructions.description": {
     "en": "You can search the database for item prices (pc only). Simply type `!price someitemname` and get the results. You can use quality and trait names as well to narrow down the search.",
-    "fr": "You can search the database for item prices (pc only). Simply type `!price someitemname` and get the results. You can use quality and trait names as well to narrow down the search.",
+    "fr": "Vous pouvez chercher dans la base de donnée pour le prix d'objets (pc seulement). Simplement écrire `!price nomobjet` et vous aurez vos résultats. Vous pouvez aussi utiliser les mots des traits et de la qualité des objets pour affiner votre recherche.",
     "de": "You can search the database for item prices (pc only). Simply type `!price someitemname` and get the results. You can use quality and trait names as well to narrow down the search."
   },
   "price.instructions.qualities.title": {
     "en": "Available Qualities",
-    "fr": "Available Qualities",
+    "fr": "Qualité des objets disponible",
     "de": "Available Qualities"
   },
   "price.instructions.traits.title": {
     "en": "Available Traits",
-    "fr": "Available Traits",
+    "fr": "Traits d'objet disponible",
     "de": "Available Traits"
   },
   "price.instructions.servers.title": {
     "en": "Servers",
-    "fr": "Servers",
+    "fr": "Serveurs",
     "de": "Servers"
   },
   "price.instructions.servers.description": {
     "en": "To search by server use `!priceeu` or `!pricena` instead of `!price`.",
-    "fr": "To search by server use `!priceeu` or `!pricena` instead of `!price`.",
+    "fr": "Pour rechercher par serveur, utiliser `!priceeu` or `!pricena` à la place de `!price`.",
     "de": "To search by server use `!priceeu` or `!pricena` instead of `!price`."
   },
   "price.footer.ttc": {
     "en": "Prices via TamrielTradeCentre.com",
-    "fr": "Prices via TamrielTradeCentre.com",
+    "fr": "Prix donnés via TamrielTradeCentre.com",
     "de": "Prices via TamrielTradeCentre.com"
   },
   "price.warning.tooShort": {
     "en": "Please use an item search query that is at least 4 characters long (excluding trait and/or quality).",
-    "fr": "Please use an item search query that is at least 4 characters long (excluding trait and/or quality).",
+    "fr": "Merci d'utiliser des mots d'au moins 4 caractère pour vos recherches. (exceptés trait et/ou qualité).",
     "de": "Please use an item search query that is at least 4 characters long (excluding trait and/or quality)."
   },
   "price.warning.noResult.title": {
     "en": "No results found.",
-    "fr": "No results found.",
+    "fr": "Pas de résultat trouvé.",
     "de": "No results found."
   },
   "price.warning.tooManyResults.title": {
     "en": "Too many items, please narrow down your search",
-    "fr": "Too many items, please narrow down your search",
+    "fr": "Trop d'objets trouvés, merci de mieux spécifier votre recherche (trait et/ou qualité)",
     "de": "Too many items, please narrow down your search"
   },
   "price.average": {
     "en": "Average price",
-    "fr": "Average price",
+    "fr": "Prix moyen",
     "de": "Average price"
   },
   "price.results.title": {
     "en": "Results for {{query}}",
-    "fr": "Results for {{query}}",
+    "fr": "ésultat pour {{query}}",
     "de": "Results for {{query}}"
   },
 
   "server.title": {
     "en": "ESO Server Status",
-    "fr": "ESO Server Status",
+    "fr": "Statut des serveurs ESO",
     "de": "ESO Server Status"
   },
   "server.up": {
     "en": "Up",
-    "fr": "Up",
+    "fr": "Disponible",
     "de": "Up"
   },
   "server.down": {
     "en": "Down",
-    "fr": "Down",
+    "fr": "Non disponible",
     "de": "Down"
   },
 
   "set.warning.tooShort": {
     "en": "Please use a set search query that is at least 4 characters long.",
-    "fr": "Please use a set search query that is at least 4 characters long.",
+    "fr": "Merci d'utiliser des mots d'au moins 4 caractères pour vos recherches.",
     "de": "Please use a set search query that is at least 4 characters long."
   },
   "set.result.title": {
     "en": "Sets for search query {{query}}",
-    "fr": "Sets for search query {{query}}",
+    "fr": "Sets de votre recherche {{query}}",
     "de": "Sets for search query {{query}}"
   },
   "set.warning.notFound.title": {
     "en": "No sets found for {{query}}",
-    "fr": "No sets found for {{query}}",
+    "fr": "Pas de sets trouvé pour {{query}}",
     "de": "No sets found for {{query}}"
   },
   "set.warning.notFound.description": {
     "en": "Please try another search query.",
-    "fr": "Please try another search query.",
+    "fr": "Merci d'essayer une autre recherche.",
     "de": "Please try another search query."
   },
   "set.moreInfo": {
     "en": "Click here for more information",
-    "fr": "Click here for more information",
+    "fr": "Cliquez ici pour plus d'informations",
     "de": "Click here for more information"
   },
 
   "skill.warning.tooShort": {
     "en": "Please use a skill search query that is at least 4 characters long.",
-    "fr": "Please use a skill search query that is at least 4 characters long.",
+    "fr": "Merci d'utiliser des mots d'au moins 4 caractères pour vos recherches.",
     "de": "Please use a skill search query that is at least 4 characters long."
   },
   "skill.result.title": {
     "en": "Skills for search query {{query}}",
-    "fr": "Skills for search query {{query}}",
+    "fr": "Compétences pour votre recherche {{query}}",
     "de": "Skills for search query {{query}}"
   },
   "skill.warning.notFound.title": {
     "en": "No sets found for {{query}}",
-    "fr": "No sets found for {{query}}",
+    "fr": "Pas de sets trouvé pour {{query}}",
     "de": "No sets found for {{query}}"
   },
   "skill.warning.notFound.description": {
     "en": "Please try another search query.",
-    "fr": "Please try another search query.",
+    "fr": "Merci d'essayer une autre recherche.",
     "de": "Please try another search query."
   },
   "skill.moreInfo": {
     "en": "Click here for more information",
-    "fr": "Click here for more information",
+    "fr": "Cliquez ici pour plus d'informations",
     "de": "Click here for more information"
   },
   "skill.active": {
     "en": "Active ability",
-    "fr": "Active ability",
+    "fr": "Compétence active",
     "de": "Active ability"
   },
   "skill.passive": {
     "en": "Passive ability",
-    "fr": "Passive ability",
+    "fr": "Compétence passive",
     "de": "Passive ability"
   },
   "skill.ultimate": {
     "en": "Ultimate ability",
-    "fr": "Ultimate ability",
+    "fr": "Compétence ultime",
     "de": "Ultimate ability"
   },
 
   "store.warning.tooShort": {
     "en": "Please use an item search query that is at least 4 characters long.",
-    "fr": "Please use an item search query that is at least 4 characters long.",
+    "fr": "Merci d'utiliser des mots d'au moins 4 caractères pour vos recherches.",
     "de": "Please use an item search query that is at least 4 characters long."
   },
   "store.result.title": {
     "en": "Store items for search query {{query}}",
-    "fr": "Store items for search query {{query}}",
+    "fr": "Objet de la boutique pour votre recherche {{query}}",
     "de": "Store items for search query {{query}}"
   },
   "store.warning.notFound.title": {
     "en": "No items found for {{query}}",
-    "fr": "No items found for {{query}}",
+    "fr": "Pas d'objets trouvés pour {{query}}",
     "de": "No items found for {{query}}"
   },
   "store.warning.notFound.description": {
     "en": "Please try another search query.",
-    "fr": "Please try another search query.",
+    "fr": "Merci d'essayer une autre recherche.",
     "de": "Please try another search query."
   },
   "store.warning.tooManyResults.title": {
     "en": "Too many matching items found for {{query}}",
-    "fr": "Too many matching items found for {{query}}",
+    "fr": "Trop d'objets correspondants trouvés pour {{query}}",
     "de": "Too many matching items found for {{query}}"
   },
   "store.warning.tooManyResults.description": {
     "en": "Please try narrowing down your search query.",
-    "fr": "Please try narrowing down your search query.",
+    "fr": "Merci d'essayer de plus préciser votre recherche.",
     "de": "Please try narrowing down your search query."
   },
   "store.category": {
     "en": "Category",
-    "fr": "Category",
+    "fr": "Catégorie",
     "de": "Category"
   },
   "store.price": {
     "en": "Price",
-    "fr": "Price",
+    "fr": "Prix",
     "de": "Price"
   },
   "store.available": {
     "en": "Availability: available now",
-    "fr": "Availability: available now",
+    "fr": "Disponibilité : disponible maintenant",
     "de": "Availability: available now"
   },
   "store.unavailable": {
     "en": "Availability: currently not available",
-    "fr": "Availability: currently not available",
+    "fr": "Disponibilité : non diponible pour le moment",
     "de": "Availability: currently not available"
   },
 
   "subscribe.title": {
     "en": "Subscription management",
-    "fr": "Subscription management",
+    "fr": "Gestion des abonnements",
     "de": "Subscription management"
   },
   "subscribe.warning.admin": {
     "en": "Only administrators can use the !subscribe command.",
-    "fr": "Only administrators can use the !subscribe command.",
+    "fr": "Seuls les administrateurs peuvent utiliser les commandes !subscribe pour changer les abonnements de l'Automaton.",
     "de": "Only administrators can use the !subscribe command."
   },
   "subscribe.help.description": {
     "en": "Use `!subscribe channel-name` to subscribe to a channel",
-    "fr": "Use `!subscribe channel-name` to subscribe to a channel",
+    "fr": "Utilisez `!subscribe channel-name` pour vous abonner à un canal spécifique",
     "de": "Use `!subscribe channel-name` to subscribe to a channel"
   },
   "subscribe.en": {
     "en": "English channels",
-    "fr": "English channels",
+    "fr": "Canaux anglais",
     "de": "English channels"
   },
   "subscribe.server": {
     "en": "Server channels",
-    "fr": "Server channels",
+    "fr": "Canaux des serveurs",
     "de": "Server channels"
   },
   "subscribe.de": {
     "en": "German channels",
-    "fr": "German channels",
+    "fr": "Canaux allemands",
     "de": "German channels"
   },
   "subscribe.fr": {
     "en": "French channels",
-    "fr": "French channels",
+    "fr": "Canaux français",
     "de": "French channels"
   },
   "subscribe.success.title": {
     "en": "Subscribed to {{channel}}",
-    "fr": "Subscribed to {{channel}}",
+    "fr": "Abonné à {{channel}}",
     "de": "Subscribed to {{channel}}"
   },
   "subscribe.success.description": {
     "en": "Will be posted in {{channel}}",
-    "fr": "Will be posted in {{channel}}",
+    "fr": "Sera posté dans {{channel}}",
     "de": "Will be posted in {{channel}}"
   },
 
   "unsubscribe.warning.admin": {
     "en": "Only administrators can use the !unsubscribe command.",
-    "fr": "Only administrators can use the !unsubscribe command.",
+    "fr": "Seuls les administrateurs peuvent utiliser les commandes !unsubscribe pour changer les abonnements de l'Automaton.",
     "de": "Only administrators can use the !unsubscribe command."
   },
   "unsubscribe.help.description": {
     "en": "Use `!unsubscribe channel-name` to unsubscribe from a channel",
-    "fr": "Use `!unsubscribe channel-name` to unsubscribe from a channel",
+    "fr": "Utilisez `!unsubscribe channel-name` pour vous désabonner d'un canal",
     "de": "Use `!unsubscribe channel-name` to unsubscribe from a channel"
   },
   "unsubscribe.success.title": {
     "en": "Unsubscribed from {{channel}}",
-    "fr": "Unsubscribed from {{channel}}",
+    "fr": "Désabonné de {{channel}}",
     "de": "Unsubscribed from {{channel}}"
   },
   "unsubscribe.success.description": {
     "en": "Will no longer be posted in {{channel}}",
-    "fr": "Will no longer be posted in {{channel}}",
+    "fr": "Ne sera plus posté dans {{channel}}",
     "de": "Will no longer be posted in {{channel}}"
   },
 
   "tda.tda": {
     "en": "Bring up this info sheet.",
-    "fr": "Bring up this info sheet.",
+    "fr": "Afficher cette fiche d'information.",
     "de": "Bring up this info sheet."
   },
   "tda.pledges": {
     "en": "Returns the current daily undaunted pledges.",
-    "fr": "Returns the current daily undaunted pledges.",
+    "fr": "Revenir aux serments d'Indomptable du jour.",
     "de": "Returns the current daily undaunted pledges."
   },
   "tda.subscribe": {
     "en": "Subscribe to one of many channels to receive automated messages (e.g. pledges or patch notes).",
-    "fr": "Subscribe to one of many channels to receive automated messages (e.g. pledges or patch notes).",
+    "fr": "Abonnez vous à un ou plusieurs canaux pour recevoir des messages automatiques (ex. serments ou patch notes).",
     "de": "Subscribe to one of many channels to receive automated messages (e.g. pledges or patch notes)."
   },
   "tda.unsubscribe": {
     "en": "Unsubscribe from a channel you were previously subscribed to.",
-    "fr": "Unsubscribe from a channel you were previously subscribed to.",
+    "fr": "Désabonnez vous d'un canal auquel vous vous étiez abonné auparavant.",
     "de": "Unsubscribe from a channel you were previously subscribed to."
   },
   "tda.buiild": {
     "en": "Search for a build. You can use roles and classes in any order you like.",
-    "fr": "Search for a build. You can use roles and classes in any order you like.",
+    "fr": "Recherche d'un guide. Vous pouvez rechercher le rôle et la classe dans l'ordre que vous souhaitez.",
     "de": "Search for a build. You can use roles and classes in any order you like."
   },
   "tda.set": {
     "en": "Search through the ESO set database. Matching sets will be displayed.",
-    "fr": "Search through the ESO set database. Matching sets will be displayed.",
+    "fr": "Recherche dans la base de données des sets de ESO. Les sets correspondants seront listés.",
     "de": "Search through the ESO set database. Matching sets will be displayed."
   },
   "tda.skill": {
     "en": "Search through the ESO skill database. Matching skills will be displayed.",
-    "fr": "Search through the ESO skill database. Matching skills will be displayed.",
+    "fr": "Recherche dans la base de données des compétences de ESO. Les compétences correspondantes seront listées.",
     "de": "Search through the ESO skill database. Matching skills will be displayed."
   },
   "tda.store": {
     "en": "Search the crown store. Matching store items will be displayed.",
-    "fr": "Search the crown store. Matching store items will be displayed.",
+    "fr": "Recherche dans la boutique à couronnes. Les objets de la boutiques correspondants seront listés.",
     "de": "Search the crown store. Matching store items will be displayed."
   },
   "tda.price": {
     "en": "Search the database for item prices (pc only).",
-    "fr": "Search the database for item prices (pc only).",
+    "fr": "Recherche de prix d'objet dans la base de données (pc seulement).",
     "de": "Search the database for item prices (pc only)."
   },
   "tda.server": {
     "en": "Returns the status of the ESO servers for all platforms.",
-    "fr": "Returns the status of the ESO servers for all platforms.",
+    "fr": "Montre l'état des seveurs ESO sur toutes les plateformes.",
     "de": "Returns the status of the ESO servers for all platforms."
   },
   "tda.weekly": {
     "en": "Returns the weekly trials (pc only).",
-    "fr": "Returns the weekly trials (pc only).",
+    "fr": "Liste des Épreuves Hebdomadaires (Raids) de la semaine (pc seulement).",
     "de": "Returns the weekly trials (pc only)."
   },
   "tda.add.title": {
     "en": "Add TDA to your own server!",
-    "fr": "Add TDA to your own server!",
+    "fr": "Ajouter l'Automaton Dwemer sur votre propre serveur!",
     "de": "Add TDA to your own server!"
   },
   "tda.add.description": {
     "en": "Click here",
-    "fr": "Click here",
+    "fr": "Cliquez ici",
     "de": "Click here"
   },
   "tda.description.first": {
     "en": "The Dwemer Automaton is running (version {{version}}). By Alcast and Woeler.",
-    "fr": "The Dwemer Automaton is running (version {{version}}). By Alcast and Woeler.",
+    "fr": "L'Automaton Dwemer est en cours d'exécution (version {{version}}). Par Alcast et Woeler.",
     "de": "The Dwemer Automaton is running (version {{version}}). By Alcast and Woeler."
   },
   "tda.description.second": {
     "en": "Check {{website}} for detailed bot info.",
-    "fr": "Check {{website}} for detailed bot info.",
+    "fr": "Vérifier {{website}} pour plus d'informations détaillées sur le bot.",
     "de": "Check {{website}} for detailed bot info."
+  },
+  "tda.translations": {
+    "en": "Translations",
+    "fr": "Traductions",
+    "de": "Übersetzungen"
+  },
+  "tda.translations.description": {
+    "en": "French translations by {{french}}.",
+    "fr": "Traduction française par {{french}}.",
+    "de": "French translations by {{french}}."
   },
 
   "weekly.title": {
     "en": "Weekly Trials",
-    "fr": "Weekly Trials",
+    "fr": "Épreuves Hebdomadaires",
     "de": "Weekly Trials"
   },
   "weekly.eu": {
     "en": "Weekly Trial PC EU",
-    "fr": "Weekly Trial PC EU",
+    "fr": "Épreuves Hebdomadaires PC EU (Europe)",
     "de": "Weekly Trial PC EU"
   },
   "weekly.na": {
     "en": "Weekly Trial PC NA",
-    "fr": "Weekly Trial PC NA",
+    "fr": "Épreuves Hebdomadaires PC NA (Amériques)",
     "de": "Weekly Trial PC NA"
   }
 }
