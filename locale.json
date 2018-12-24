@@ -145,9 +145,9 @@
   },
 
   "skill.warning.tooShort": {
-    "en": "Please use a set search query that is at least 4 characters long.",
-    "fr": "Please use a set search query that is at least 4 characters long.",
-    "de": "Please use a set search query that is at least 4 characters long."
+    "en": "Please use a skill search query that is at least 4 characters long.",
+    "fr": "Please use a skill search query that is at least 4 characters long.",
+    "de": "Please use a skill search query that is at least 4 characters long."
   },
   "skill.result.title": {
     "en": "Skills for search query {{query}}",
@@ -186,9 +186,9 @@
   },
 
   "store.warning.tooShort": {
-    "en": "Please use a set search query that is at least 4 characters long.",
-    "fr": "Please use a set search query that is at least 4 characters long.",
-    "de": "Please use a set search query that is at least 4 characters long."
+    "en": "Please use an item search query that is at least 4 characters long.",
+    "fr": "Please use an item search query that is at least 4 characters long.",
+    "de": "Please use an item search query that is at least 4 characters long."
   },
   "store.result.title": {
     "en": "Store items for search query {{query}}",
