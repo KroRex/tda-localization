@@ -403,5 +403,51 @@
     "en": "Weekly Trial PC NA",
     "fr": "Épreuves Hebdomadaires PC NA (Amériques)",
     "de": "Weekly Trial PC NA"
+  },
+  
+  "Maelstrom Arena": {
+    "en": "Maelstrom Arena",
+    "fr": "L'Arène de Maelström",
+    "de": "Mahlstrom-Arena"
+  },
+  "Dragonstar Arena": {
+    "en": "Dragonstar Arena",
+    "fr": "L'Arène de l'Etoile du Dragon",
+    "de": "Drachenstern-Arena"
+  },
+  "Aetherian Archive": {
+    "en": "Aetherian Archive",
+    "fr": "L'Archive Aethérienne",
+    "de": "Ätherisches Archiv"
+  },
+  "Hel Ra Citedel": {
+    "en": "Hel Ra Citedel",
+    "fr": "La Citadelle d'Hel-Ra",
+    "de": "Zitadelle von Hel Ra"
+  },
+  "Sanctum Ophidia": {
+    "en": "Sanctum Ophidia",
+    "fr": "Sanctum Ophidia",
+    "de": "Sanctum Ophidia"
+  },
+  "Maw of Lorkhaj": {
+    "en": "Maw of Lorkhaj",
+    "fr": "La Gueule de Lorkhaj",
+    "de": "Schlund von Lorkhaj"
+  },
+  "Halls of Fabrication": {
+    "en": "Halls of Fabrication",
+    "fr": "Les Salles de la Fabrication",
+    "de": "Hallen der Fertigung"
+  },
+  "Asylum Sanctorium": {
+    "en": "Asylum Sanctorium",
+    "fr": "L'Asile Sanctuaire",
+    "de": "Anstalt Sanctorium"
+  },
+  "Cloudrest": {
+    "en": "Cloudrest",
+    "fr": "Le Pas-des-Nuées",
+    "de": "Wolkenruh"
   }
 }
