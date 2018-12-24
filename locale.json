@@ -375,7 +375,7 @@
   },
   "tda.description.second": {
     "en": "Check {{website}} for detailed bot info.",
-    "fr": "Vérifier {{website}} pour plus d'informations détaillées sur le bot.",
+    "fr": "Allez sur le site {{website}} pour plus d'informations détaillées sur l'Automaton.",
     "de": "Check {{website}} for detailed bot info."
   },
   "tda.translations": {
