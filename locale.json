@@ -48,7 +48,7 @@
   },
   "price.instructions.description": {
     "en": "You can search the database for item prices (pc only). Simply type `!price someitemname` and get the results. You can use quality and trait names as well to narrow down the search.",
-    "fr": "Vous pouvez chercher dans la base de donnée pour le prix d'objets (pc seulement). Simplement écrire `!price nomobjet` et vous aurez vos résultats. Vous pouvez aussi utiliser les mots des traits et de la qualité des objets pour affiner votre recherche.",
+    "fr": "Vous pouvez chercher dans la base de donnée pour le prix d'objets (pc seulement et nom des objets en **anglais uniquement**). Simplement écrire !price nomobjet et vous aurez vos résultats. Vous pouvez aussi utiliser les mots des traits et de la qualité des objets pour affiner votre recherche.",
     "de": "You can search the database for item prices (pc only). Simply type `!price someitemname` and get the results. You can use quality and trait names as well to narrow down the search."
   },
   "price.instructions.qualities.title": {
