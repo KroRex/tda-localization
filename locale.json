@@ -310,7 +310,7 @@
   },
   "tda.pledges": {
     "en": "Returns the current daily undaunted pledges.",
-    "fr": "Revenir aux serments d'Indomptable du jour.",
+    "fr": "Montre les serments d'Indomptable du jour.",
     "de": "Returns the current daily undaunted pledges."
   },
   "tda.subscribe": {
