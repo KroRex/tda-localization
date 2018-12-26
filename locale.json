@@ -27,12 +27,12 @@
   },
   "language.warning.noLang": {
     "en": "You did not specify a language. The following languages are supported:\nen = English\nde = German\nfr = French\n\nSo use `!language en` for example.",
-    "fr": "Vous n'avez pas spécifié votre langue. Les langues supportées sont :\nen = Anglais\nde = Allemand\nfr = Frnaçais\n\nSo utilisez `!language fr` par exemple pour mettre le bot en français.",
+    "fr": "Vous n'avez pas spécifié votre langue. Les langues supportées sont :\nen = Anglais\nde = Allemand\nfr = Français\n\nUtilisez `!language fr` par exemple pour mettre le bot en français.",
     "de": "You did not specify a language. The following languages are supported:\nen = English\nde = German\nfr = French\n\nSo use `!language en` for example."
   },
   "language.warning.unknownLang": {
     "en": "The language you specified is unknown. The following languages are supported:\nen = English\nde = German\nfr = French\n\nSo use `!language en` for example.",
-    "fr": "La langue spécifiée est inconnue. Les langues supportées sont :\nen = Anglais\nde = Allemand\nfr = Frnaçais\n\nUtilisez `!language fr` par exemple pour mettre le bot en français.",
+    "fr": "La langue spécifiée est inconnue. Les langues supportées sont :\nen = Anglais\nde = Allemand\nfr = Français\n\nUtilisez `!language fr` par exemple pour mettre le bot en français.",
     "de": "The language you specified is unknown. The following languages are supported:\nen = English\nde = German\nfr = French\n\nSo use `!language en` for example."
   },
   "language.changed": {
