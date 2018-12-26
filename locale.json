@@ -404,7 +404,7 @@
     "fr": "Épreuves Hebdomadaires PC NA (Amériques)",
     "de": "Weekly Trial PC NA"
   },
-  
+
   "Maelstrom Arena": {
     "en": "Maelstrom Arena",
     "fr": "L'Arène de Maelström",
@@ -449,5 +449,21 @@
     "en": "Cloudrest",
     "fr": "Le Pas-des-Nuées",
     "de": "Wolkenruh"
+  },
+  
+  "subscriptions.title": {
+    "en": "Current subscriptions",
+    "fr": "Current subscriptions",
+    "de": "Current subscriptions"
+  },
+  "subscriptions.none": {
+    "en": "None",
+    "fr": "None",
+    "de": "None"
+  },
+  "subscriptions.warning.admin": {
+    "en": "Only administrators can use the !subscriptions command.",
+    "fr": "Seuls les administrateurs peuvent utiliser les commandes !subscriptions.",
+    "de": "Only administrators can use the !subscriptions command."
   }
 }
