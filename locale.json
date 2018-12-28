@@ -465,5 +465,136 @@
     "en": "Only administrators can use the !subscriptions command.",
     "fr": "Seuls les administrateurs peuvent utiliser les commandes !subscriptions.",
     "de": "Only administrators can use the !subscriptions command."
+  },
+  
+  "trait.powered": {
+    "en": "Powered",
+    "fr": "Powered",
+    "de": "Powered"
+  },
+  "trait.chraged": {
+    "en": "Charged",
+    "fr": "Charged",
+    "de": "Charged"
+  },
+  "trait.precise": {
+    "en": "Precise",
+    "fr": "Precise",
+    "de": "Precise"
+  },
+  "trait.infused": {
+    "en": "Infused",
+    "fr": "Infused",
+    "de": "Infused"
+  },
+  "trait.defending": {
+    "en": "Defending",
+    "fr": "Defending",
+    "de": "Defending"
+  },
+  "trait.training": {
+    "en": "Training",
+    "fr": "Training",
+    "de": "Training"
+  },
+  "trait.sharpened": {
+    "en": "Sharpened",
+    "fr": "Sharpened",
+    "de": "Sharpened"
+  },
+  "trait.decisive": {
+    "en": "Decisive",
+    "fr": "Decisive",
+    "de": "Decisiive"
+  },
+  "trait.sturdy": {
+    "en": "Sturdy",
+    "fr": "Sturdy",
+    "de": "Sturdy"
+  },
+  "trait.impenetrable": {
+    "en": "Impenetrable",
+    "fr": "Impenetrable",
+    "de": "Impenetrable"
+  },
+  "trait.reinforced": {
+    "en": "Reinforced",
+    "fr": "Reinforced",
+    "de": "Reinforced"
+  },
+  "trait.well-fitted": {
+    "en": "Well-Fitted",
+    "fr": "Well-Fitted",
+    "de": "Well-Fitted"
+  },
+  "trait.prosperous": {
+    "en": "Prosperous",
+    "fr": "Prosperous",
+    "de": "Prosperous"
+  },
+  "trait.divines": {
+    "en": "Divines",
+    "fr": "Divines",
+    "de": "Divines"
+  },
+  "trait.nirnhoned": {
+    "en": "Nirnhoned",
+    "fr": "Nirnhoned",
+    "de": "Nirnhoned"
+  },
+  "trait.intricate": {
+    "en": "Intricate",
+    "fr": "Intricate",
+    "de": "Intricate"
+  },
+  "trait.ornate": {
+    "en": "Ornate",
+    "fr": "Ornate",
+    "de": "Ornate"
+  },
+  "trait.arcane": {
+    "en": "Arcane",
+    "fr": "Arcane",
+    "de": "Arcane"
+  },
+  "trait.healthy": {
+    "en": "Healthy",
+    "fr": "Healthy",
+    "de": "Healthy"
+  },
+  "trait.robust": {
+    "en": "Robust",
+    "fr": "Robust",
+    "de": "Robust"
+  },
+  "trait.special": {
+    "en": "Special",
+    "fr": "Special",
+    "de": "Special"
+  },
+  "trait.bloodthirsty": {
+    "en": "Bloodthirsty",
+    "fr": "Bloodthirsty",
+    "de": "Bloodthirsty"
+  },
+  "trait.harmony": {
+    "en": "Harmony",
+    "fr": "Harmony",
+    "de": "Harmony"
+  },
+  "trait.protective": {
+    "en": "Protective",
+    "fr": "Protective",
+    "de": "Protective"
+  },
+  "trait.swift": {
+    "en": "Swift",
+    "fr": "Swift",
+    "de": "Swift"
+  },
+  "trait.triune": {
+    "en": "Triune",
+    "fr": "Triune",
+    "de": "Triune"
   }
 }
