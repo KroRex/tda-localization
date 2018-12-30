@@ -505,7 +505,7 @@
   "trait.decisive": {
     "en": "Decisive",
     "fr": "Decisive",
-    "de": "Ausbalanciert"
+    "de": "Entschlossen"
   },
   "trait.sturdy": {
     "en": "Sturdy",
@@ -527,10 +527,10 @@
     "fr": "Well-Fitted",
     "de": "Passgenau"
   },
-  "trait.prosperous": {
-    "en": "Prosperous",
-    "fr": "Prosperous",
-    "de": "Prosperous"
+  "trait.invigorating": {
+    "en": "Invigorating",
+    "fr": "Invigorating",
+    "de": "Belebend"
   },
   "trait.divines": {
     "en": "Divines",
@@ -540,7 +540,7 @@
   "trait.nirnhoned": {
     "en": "Nirnhoned",
     "fr": "Nirnhoned",
-    "de": "Nirnhoned"
+    "de": "Nirngeschliffen"
   },
   "trait.intricate": {
     "en": "Intricate",
