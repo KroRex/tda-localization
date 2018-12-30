@@ -2,7 +2,7 @@
   "pledges.todays": {
     "en": "Today's Pledges",
     "fr": "Serment d'Indomptable du jour",
-    "de": "Heutige Dailies"
+    "de": "Heutige Gelöbnisse"
   },
   "pledges.tomorrow": {
     "en": "Tomorrow",
@@ -12,301 +12,301 @@
   "pledges.inDays": {
     "en": "Pledges in {{days}} days",
     "fr": "Pledges in {{days}} days",
-    "de": "Dailies in {{days}} Tagen"
+    "de": "Gelöbnisse in {{days}} Tagen"
   },
 
   "language.warning.admin": {
     "en": "Only administrators can use the !language command.",
     "fr": "Seuls les administrateurs peuvent utiliser les commandes !language pour changer la langue de l'Automaton.",
-    "de": "Only administrators can use the !language command."
+    "de": "Der !language Befehl kann nur von Administratoren verwendet werden."
   },
   "language.title": {
     "en": "Language management",
     "fr": "Gestion de la langue du bot",
-    "de": "Language management"
+    "de": "Spracheinstellungen"
   },
   "language.warning.noLang": {
     "en": "You did not specify a language. The following languages are supported:\nen = English\nde = German\nfr = French\n\nSo use `!language en` for example.",
     "fr": "Vous n'avez pas spécifié votre langue. Les langues supportées sont :\nen = Anglais\nde = Allemand\nfr = Français\n\nUtilisez `!language fr` par exemple pour mettre le bot en français.",
-    "de": "You did not specify a language. The following languages are supported:\nen = English\nde = German\nfr = French\n\nSo use `!language en` for example."
+    "de": "Keine Sprache angegeben. Folgende Sprachen werden unterstützt:\nen = Englisch\nde = Deutsch\nfr = Französisch\n\nBenutze zum Beispiel `!language en`."
   },
   "language.warning.unknownLang": {
     "en": "The language you specified is unknown. The following languages are supported:\nen = English\nde = German\nfr = French\n\nSo use `!language en` for example.",
     "fr": "La langue spécifiée est inconnue. Les langues supportées sont :\nen = Anglais\nde = Allemand\nfr = Français\n\nUtilisez `!language fr` par exemple pour mettre le bot en français.",
-    "de": "The language you specified is unknown. The following languages are supported:\nen = English\nde = German\nfr = French\n\nSo use `!language en` for example."
+    "de": "Unbekannte Sprache angegeben. Folgende Sprachen werden unterstützt:\nen = Englisch\nde = Deutsch\nfr = Französisch\n\nBenutze zum Beispiel `!language en`."
   },
   "language.changed": {
     "en": "Language changed to {{language}}",
     "fr": "Langue changée en {{language}}",
-    "de": "Language changed to {{language}}"
+    "de": "Sprache geändert auf {{language}}"
   },
 
   "price.instructions.title": {
     "en": "Price check instructions",
     "fr": "Instruction de vérification des prix",
-    "de": "Price check instructions"
+    "de": "Preischeck Anleitung"
   },
   "price.instructions.description": {
     "en": "You can search the database for item prices (pc only). Simply type `!price someitemname` and get the results. You can use quality and trait names as well to narrow down the search.",
     "fr": "Vous pouvez chercher dans la base de donnée pour le prix d'objets (pc seulement et nom des objets en **anglais uniquement**). Simplement écrire !price nomobjet et vous aurez vos résultats. Vous pouvez aussi utiliser les mots des traits et de la qualité des objets pour affiner votre recherche.",
-    "de": "You can search the database for item prices (pc only). Simply type `!price someitemname` and get the results. You can use quality and trait names as well to narrow down the search."
+    "de": "Durchsuche die Datenbank nach Itempreisen (nur PC Preise). Benutze `!price itemdeinerwahl`. Du kannst auch nach Qualitätsstufen oder Eigenschaften verwenden, um deine Suche zu verfeinern."
   },
   "price.instructions.qualities.title": {
     "en": "Available Qualities",
     "fr": "Qualité des objets disponible",
-    "de": "Available Qualities"
+    "de": "Verfügbare Qualitätsstufen"
   },
   "price.instructions.traits.title": {
     "en": "Available Traits",
     "fr": "Traits d'objet disponible",
-    "de": "Available Traits"
+    "de": "Verfügbare Eigenschaften"
   },
   "price.instructions.servers.title": {
     "en": "Servers",
     "fr": "Serveurs",
-    "de": "Servers"
+    "de": "Server"
   },
   "price.instructions.servers.description": {
     "en": "To search by server use `!priceeu` or `!pricena` instead of `!price`.",
     "fr": "Pour rechercher par serveur, utiliser `!priceeu` or `!pricena` à la place de `!price`.",
-    "de": "To search by server use `!priceeu` or `!pricena` instead of `!price`."
+    "de": "Verwende `!priceeu` oder `!pricena` statt `!price`, um nur EU bzw. NA Preise zu bekommen."
   },
   "price.footer.ttc": {
     "en": "Prices via TamrielTradeCentre.com",
     "fr": "Prix donnés via TamrielTradeCentre.com",
-    "de": "Prices via TamrielTradeCentre.com"
+    "de": "Preise via TamrielTradeCentre.com"
   },
   "price.warning.tooShort": {
     "en": "Please use an item search query that is at least 4 characters long (excluding trait and/or quality).",
     "fr": "Merci d'utiliser des mots d'au moins 4 caractère pour vos recherches. (exceptés trait et/ou qualité).",
-    "de": "Please use an item search query that is at least 4 characters long (excluding trait and/or quality)."
+    "de": "Deine Anfrage muss mindestens 4 Zeichen lang sein (ohne Eigenschaft und/oder Qualitätsstufe)."
   },
   "price.warning.noResult.title": {
     "en": "No results found.",
     "fr": "Pas de résultat trouvé.",
-    "de": "No results found."
+    "de": "Keine Suchergebnisse."
   },
   "price.warning.tooManyResults.title": {
     "en": "Too many items, please narrow down your search",
     "fr": "Trop d'objets trouvés, merci de mieux spécifier votre recherche (trait et/ou qualité)",
-    "de": "Too many items, please narrow down your search"
+    "de": "Zu viele Suchergebnisse, bitte verfeinere deine Suche"
   },
   "price.average": {
     "en": "Average price",
     "fr": "Prix moyen",
-    "de": "Average price"
+    "de": "Durchschnittlich"
   },
   "price.results.title": {
     "en": "Results for {{query}}",
     "fr": "ésultat pour {{query}}",
-    "de": "Results for {{query}}"
+    "de": "Suchergebnisse für {{query}}"
   },
 
   "server.title": {
     "en": "ESO Server Status",
     "fr": "Statut des serveurs ESO",
-    "de": "ESO Server Status"
+    "de": "ESO Serverstatus"
   },
   "server.up": {
     "en": "Up",
     "fr": "Disponible",
-    "de": "Up"
+    "de": "Online"
   },
   "server.down": {
     "en": "Down",
     "fr": "Non disponible",
-    "de": "Down"
+    "de": "Offline"
   },
 
   "set.warning.tooShort": {
     "en": "Please use a set search query that is at least 4 characters long.",
     "fr": "Merci d'utiliser des mots d'au moins 4 caractères pour vos recherches.",
-    "de": "Please use a set search query that is at least 4 characters long."
+    "de": "Deine Anfrage muss mindestens 4 Zeichen lang sein."
   },
   "set.result.title": {
     "en": "Sets for search query {{query}}",
     "fr": "Sets de votre recherche {{query}}",
-    "de": "Sets for search query {{query}}"
+    "de": "Suchergebnisse für {{query}}"
   },
   "set.warning.notFound.title": {
     "en": "No sets found for {{query}}",
     "fr": "Pas de sets trouvé pour {{query}}",
-    "de": "No sets found for {{query}}"
+    "de": "Keine Suchergebnisse für {{query}}"
   },
   "set.warning.notFound.description": {
     "en": "Please try another search query.",
     "fr": "Merci d'essayer une autre recherche.",
-    "de": "Please try another search query."
+    "de": "Bitte versuche es mit einer anderen Anfrage."
   },
   "set.moreInfo": {
     "en": "Click here for more information",
     "fr": "Cliquez ici pour plus d'informations",
-    "de": "Click here for more information"
+    "de": "Klicke hier für mehr Informationen"
   },
 
   "skill.warning.tooShort": {
     "en": "Please use a skill search query that is at least 4 characters long.",
     "fr": "Merci d'utiliser des mots d'au moins 4 caractères pour vos recherches.",
-    "de": "Please use a skill search query that is at least 4 characters long."
+    "de": "Deine Anfrage muss mindestens 4 Zeichen lang sein."
   },
   "skill.result.title": {
     "en": "Skills for search query {{query}}",
     "fr": "Compétences pour votre recherche {{query}}",
-    "de": "Skills for search query {{query}}"
+    "de": "Suchergebnisse für {{query}}"
   },
   "skill.warning.notFound.title": {
-    "en": "No sets found for {{query}}",
+    "en": "No skills found for {{query}}",
     "fr": "Pas de sets trouvé pour {{query}}",
-    "de": "No sets found for {{query}}"
+    "de": "Keine Suchergebnisse für {{query}}"
   },
   "skill.warning.notFound.description": {
     "en": "Please try another search query.",
     "fr": "Merci d'essayer une autre recherche.",
-    "de": "Please try another search query."
+    "de": "Bitte versuche es mit einer anderen Anfrage."
   },
   "skill.moreInfo": {
     "en": "Click here for more information",
     "fr": "Cliquez ici pour plus d'informations",
-    "de": "Click here for more information"
+    "de": "Klicke hier für mehr Informationen""
   },
   "skill.active": {
     "en": "Active ability",
     "fr": "Compétence active",
-    "de": "Active ability"
+    "de": "Aktive Fähigkeit"
   },
   "skill.passive": {
     "en": "Passive ability",
     "fr": "Compétence passive",
-    "de": "Passive ability"
+    "de": "Passive Fähigkeit"
   },
   "skill.ultimate": {
     "en": "Ultimate ability",
     "fr": "Compétence ultime",
-    "de": "Ultimate ability"
+    "de": "Ultimative Fähigkeit"
   },
 
   "store.warning.tooShort": {
     "en": "Please use an item search query that is at least 4 characters long.",
     "fr": "Merci d'utiliser des mots d'au moins 4 caractères pour vos recherches.",
-    "de": "Please use an item search query that is at least 4 characters long."
+    "de": "Deine Anfrage muss mindestens 4 Zeichen lang sein."
   },
   "store.result.title": {
     "en": "Store items for search query {{query}}",
     "fr": "Objet de la boutique pour votre recherche {{query}}",
-    "de": "Store items for search query {{query}}"
+    "de": "Suchergebnisse für {{query}}"
   },
   "store.warning.notFound.title": {
     "en": "No items found for {{query}}",
     "fr": "Pas d'objets trouvés pour {{query}}",
-    "de": "No items found for {{query}}"
+    "de": "Keine Suchergebnisse für {{query}}"
   },
   "store.warning.notFound.description": {
     "en": "Please try another search query.",
     "fr": "Merci d'essayer une autre recherche.",
-    "de": "Please try another search query."
+    "de": "Bitte versuche es mit einer anderen Anfrage."
   },
   "store.warning.tooManyResults.title": {
     "en": "Too many matching items found for {{query}}",
     "fr": "Trop d'objets correspondants trouvés pour {{query}}",
-    "de": "Too many matching items found for {{query}}"
+    "de": "Zu viele Suchergebnisse für {{query}}"
   },
   "store.warning.tooManyResults.description": {
     "en": "Please try narrowing down your search query.",
     "fr": "Merci d'essayer de plus préciser votre recherche.",
-    "de": "Please try narrowing down your search query."
+    "de": "Bitte verfeinere deine Suche."
   },
   "store.category": {
     "en": "Category",
     "fr": "Catégorie",
-    "de": "Category"
+    "de": "Kategorie"
   },
   "store.price": {
     "en": "Price",
     "fr": "Prix",
-    "de": "Price"
+    "de": "Preis"
   },
   "store.available": {
     "en": "Availability: available now",
     "fr": "Disponibilité : disponible maintenant",
-    "de": "Availability: available now"
+    "de": "Verfügbarkeit: Verfügbar"
   },
   "store.unavailable": {
     "en": "Availability: currently not available",
     "fr": "Disponibilité : non diponible pour le moment",
-    "de": "Availability: currently not available"
+    "de": "Verfügbarkeit: Zur Zeit nicht verfügbar"
   },
 
   "subscribe.title": {
     "en": "Subscription management",
     "fr": "Gestion des abonnements",
-    "de": "Subscription management"
+    "de": "Abonnementverwaltung"
   },
   "subscribe.warning.admin": {
     "en": "Only administrators can use the !subscribe command.",
     "fr": "Seuls les administrateurs peuvent utiliser les commandes !subscribe pour changer les abonnements de l'Automaton.",
-    "de": "Only administrators can use the !subscribe command."
+    "de": "Der !subscribe Befehl kann nur von Administratoren verwendet werden."
   },
   "subscribe.help.description": {
     "en": "Use `!subscribe channel-name` to subscribe to a channel",
     "fr": "Utilisez `!subscribe channel-name` pour vous abonner à un canal spécifique",
-    "de": "Use `!subscribe channel-name` to subscribe to a channel"
+    "de": "Verwende `!subscribe Kanalname`, um einen Kanal zu abonnieren"
   },
   "subscribe.en": {
     "en": "English channels",
     "fr": "Canaux anglais",
-    "de": "English channels"
+    "de": "Englische Kanäle"
   },
   "subscribe.server": {
     "en": "Server channels",
     "fr": "Canaux des serveurs",
-    "de": "Server channels"
+    "de": "Serverkanäle"
   },
   "subscribe.de": {
     "en": "German channels",
     "fr": "Canaux allemands",
-    "de": "German channels"
+    "de": "Deutsche Kanäle"
   },
   "subscribe.fr": {
     "en": "French channels",
     "fr": "Canaux français",
-    "de": "French channels"
+    "de": "Französische Kanäle"
   },
   "subscribe.success.title": {
     "en": "Subscribed to {{channel}}",
     "fr": "Abonné à {{channel}}",
-    "de": "Subscribed to {{channel}}"
+    "de": "Kanal abonniert: {{channel}}"
   },
   "subscribe.success.description": {
     "en": "Will be posted in {{channel}}",
     "fr": "Sera posté dans {{channel}}",
-    "de": "Will be posted in {{channel}}"
+    "de": "Nachrichten erscheinen in {{channel}}"
   },
 
   "unsubscribe.warning.admin": {
     "en": "Only administrators can use the !unsubscribe command.",
     "fr": "Seuls les administrateurs peuvent utiliser les commandes !unsubscribe pour changer les abonnements de l'Automaton.",
-    "de": "Only administrators can use the !unsubscribe command."
+    "de": "Der !unsubscribe Befehl kann nur von Administratoren verwendet werden."
   },
   "unsubscribe.help.description": {
     "en": "Use `!unsubscribe channel-name` to unsubscribe from a channel",
     "fr": "Utilisez `!unsubscribe channel-name` pour vous désabonner d'un canal",
-    "de": "Use `!unsubscribe channel-name` to unsubscribe from a channel"
+    "de": "Verwende `!unsubscribe Kanalname`, um einen Kanal abzubestellen"
   },
   "unsubscribe.success.title": {
     "en": "Unsubscribed from {{channel}}",
     "fr": "Désabonné de {{channel}}",
-    "de": "Unsubscribed from {{channel}}"
+    "de": "Kanal abbestellt: {{channel}}"
   },
   "unsubscribe.success.description": {
     "en": "Will no longer be posted in {{channel}}",
     "fr": "Ne sera plus posté dans {{channel}}",
-    "de": "Will no longer be posted in {{channel}}"
+    "de": "Nachrichten erscheinen nicht mehr in {{channel}}"
   },
 
   "tda.tda": {
     "en": "Bring up this info sheet.",
     "fr": "Afficher cette fiche d'information.",
-    "de": "Bring up this info sheet."
+    "de": "Zeige diese Hilfeseite an."
   },
   "tda.pledges": {
     "en": "Returns the current daily undaunted pledges.",
