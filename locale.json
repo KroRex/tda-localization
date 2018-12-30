@@ -172,17 +172,17 @@
   "skill.active": {
     "en": "Active ability",
     "fr": "Compétence active",
-    "de": "Aktive Fähigkeit"
+    "de": "Aktive Fertigkeit"
   },
   "skill.passive": {
     "en": "Passive ability",
     "fr": "Compétence passive",
-    "de": "Passive Fähigkeit"
+    "de": "Passive Fertigkeit"
   },
   "skill.ultimate": {
     "en": "Ultimate ability",
     "fr": "Compétence ultime",
-    "de": "Ultimative Fähigkeit"
+    "de": "Ultimative Fertigkeit"
   },
 
   "store.warning.tooShort": {
@@ -470,62 +470,62 @@
   "trait.powered": {
     "en": "Powered",
     "fr": "Powered",
-    "de": "Powered"
+    "de": "Gestärkt"
   },
   "trait.charged": {
     "en": "Charged",
     "fr": "Charged",
-    "de": "Charged"
+    "de": "Geladen"
   },
   "trait.precise": {
     "en": "Precise",
     "fr": "Precise",
-    "de": "Precise"
+    "de": "Präzise"
   },
   "trait.infused": {
     "en": "Infused",
     "fr": "Infused",
-    "de": "Infused"
+    "de": "Erfüllt"
   },
   "trait.defending": {
     "en": "Defending",
     "fr": "Defending",
-    "de": "Defending"
+    "de": "Verteidigend"
   },
   "trait.training": {
     "en": "Training",
     "fr": "Training",
-    "de": "Training"
+    "de": "Lehrend"
   },
   "trait.sharpened": {
     "en": "Sharpened",
     "fr": "Sharpened",
-    "de": "Sharpened"
+    "de": "Geschärft"
   },
   "trait.decisive": {
     "en": "Decisive",
     "fr": "Decisive",
-    "de": "Decisiive"
+    "de": "Ausbalanciert"
   },
   "trait.sturdy": {
     "en": "Sturdy",
     "fr": "Sturdy",
-    "de": "Sturdy"
+    "de": "Robust"
   },
   "trait.impenetrable": {
     "en": "Impenetrable",
     "fr": "Impenetrable",
-    "de": "Impenetrable"
+    "de": "Undurchdringlich"
   },
   "trait.reinforced": {
     "en": "Reinforced",
     "fr": "Reinforced",
-    "de": "Reinforced"
+    "de": "Verstärkt"
   },
   "trait.well-fitted": {
     "en": "Well-Fitted",
     "fr": "Well-Fitted",
-    "de": "Well-Fitted"
+    "de": "Passgenau"
   },
   "trait.prosperous": {
     "en": "Prosperous",
@@ -535,7 +535,7 @@
   "trait.divines": {
     "en": "Divines",
     "fr": "Divines",
-    "de": "Divines"
+    "de": "Göttlich"
   },
   "trait.nirnhoned": {
     "en": "Nirnhoned",
@@ -555,12 +555,12 @@
   "trait.arcane": {
     "en": "Arcane",
     "fr": "Arcane",
-    "de": "Arcane"
+    "de": "Arkan"
   },
   "trait.healthy": {
     "en": "Healthy",
     "fr": "Healthy",
-    "de": "Healthy"
+    "de": "Kräftigend"
   },
   "trait.robust": {
     "en": "Robust",
@@ -570,31 +570,31 @@
   "trait.special": {
     "en": "Special",
     "fr": "Special",
-    "de": "Special"
+    "de": "Spezial"
   },
   "trait.bloodthirsty": {
     "en": "Bloodthirsty",
     "fr": "Bloodthirsty",
-    "de": "Bloodthirsty"
+    "de": "Blutdürstig"
   },
   "trait.harmony": {
     "en": "Harmony",
     "fr": "Harmony",
-    "de": "Harmony"
+    "de": "Harmonisch"
   },
   "trait.protective": {
     "en": "Protective",
     "fr": "Protective",
-    "de": "Protective"
+    "de": "Schützend"
   },
   "trait.swift": {
     "en": "Swift",
     "fr": "Swift",
-    "de": "Swift"
+    "de": "Flink"
   },
   "trait.triune": {
     "en": "Triune",
     "fr": "Triune",
-    "de": "Triune"
+    "de": "Dreifaltig"
   }
 }
