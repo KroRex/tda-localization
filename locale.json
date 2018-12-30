@@ -69,7 +69,7 @@
   "price.instructions.servers.description": {
     "en": "To search by server use `!priceeu` or `!pricena` instead of `!price`.",
     "fr": "Pour rechercher par serveur, utiliser `!priceeu` or `!pricena` à la place de `!price`.",
-    "de": "Verwende `!priceeu` oder `!pricena` statt `!price`, um nur EU bzw. NA Preise zu bekommen."
+    "de": "Verwende `!priceeu` oder `!pricena` statt `!price`, um nur EU bzw. NA Preise anzuzeigen."
   },
   "price.footer.ttc": {
     "en": "Prices via TamrielTradeCentre.com",
@@ -79,7 +79,7 @@
   "price.warning.tooShort": {
     "en": "Please use an item search query that is at least 4 characters long (excluding trait and/or quality).",
     "fr": "Merci d'utiliser des mots d'au moins 4 caractère pour vos recherches. (exceptés trait et/ou qualité).",
-    "de": "Deine Anfrage muss mindestens 4 Zeichen lang sein (ohne Eigenschaft und/oder Qualitätsstufe)."
+    "de": "Deine Suchanfrage muss mindestens 4 Zeichen lang sein (ohne Eigenschaft und/oder Qualitätsstufe)."
   },
   "price.warning.noResult.title": {
     "en": "No results found.",
@@ -121,7 +121,7 @@
   "set.warning.tooShort": {
     "en": "Please use a set search query that is at least 4 characters long.",
     "fr": "Merci d'utiliser des mots d'au moins 4 caractères pour vos recherches.",
-    "de": "Deine Anfrage muss mindestens 4 Zeichen lang sein."
+    "de": "Deine Suchanfrage muss mindestens 4 Zeichen lang sein."
   },
   "set.result.title": {
     "en": "Sets for search query {{query}}",
@@ -136,7 +136,7 @@
   "set.warning.notFound.description": {
     "en": "Please try another search query.",
     "fr": "Merci d'essayer une autre recherche.",
-    "de": "Bitte versuche es mit einer anderen Anfrage."
+    "de": "Bitte versuche es mit einer anderen Suchanfrage."
   },
   "set.moreInfo": {
     "en": "Click here for more information",
@@ -147,7 +147,7 @@
   "skill.warning.tooShort": {
     "en": "Please use a skill search query that is at least 4 characters long.",
     "fr": "Merci d'utiliser des mots d'au moins 4 caractères pour vos recherches.",
-    "de": "Deine Anfrage muss mindestens 4 Zeichen lang sein."
+    "de": "Deine Suchanfrage muss mindestens 4 Zeichen lang sein."
   },
   "skill.result.title": {
     "en": "Skills for search query {{query}}",
@@ -162,7 +162,7 @@
   "skill.warning.notFound.description": {
     "en": "Please try another search query.",
     "fr": "Merci d'essayer une autre recherche.",
-    "de": "Bitte versuche es mit einer anderen Anfrage."
+    "de": "Bitte versuche es mit einer anderen Suchanfrage."
   },
   "skill.moreInfo": {
     "en": "Click here for more information",
@@ -188,7 +188,7 @@
   "store.warning.tooShort": {
     "en": "Please use an item search query that is at least 4 characters long.",
     "fr": "Merci d'utiliser des mots d'au moins 4 caractères pour vos recherches.",
-    "de": "Deine Anfrage muss mindestens 4 Zeichen lang sein."
+    "de": "Deine Suchanfrage muss mindestens 4 Zeichen lang sein."
   },
   "store.result.title": {
     "en": "Store items for search query {{query}}",
@@ -203,7 +203,7 @@
   "store.warning.notFound.description": {
     "en": "Please try another search query.",
     "fr": "Merci d'essayer une autre recherche.",
-    "de": "Bitte versuche es mit einer anderen Anfrage."
+    "de": "Bitte versuche es mit einer anderen Suchanfrage."
   },
   "store.warning.tooManyResults.title": {
     "en": "Too many matching items found for {{query}}",
