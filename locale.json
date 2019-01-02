@@ -596,5 +596,31 @@
     "en": "Triune",
     "fr": "Triune",
     "de": "Dreifaltig"
+  },
+  
+  "qualities.white": {
+    "en": "White",
+    "fr": "Blanc",
+    "de": "Weiẞ"
+  },
+  "qualities.green": {
+    "en": "Green",
+    "fr": "Vert",
+    "de": "Grün"
+  },
+  "qualities.blue": {
+    "en": "Blue",
+    "fr": "Bleu",
+    "de": "Blau"
+  },
+  "qualities.purple": {
+    "en": "Purple",
+    "fr": "Violet",
+    "de": "Lila"
+  },
+  "qualities.gold": {
+    "en": "Gold",
+    "fr": "Dore",
+    "de": "Gold"
   }
 }
