@@ -598,27 +598,27 @@
     "de": "Dreifaltig"
   },
   
-  "qualities.white": {
+  "quality.white": {
     "en": "White",
     "fr": "Blanc",
     "de": "Weiẞ"
   },
-  "qualities.green": {
+  "quality.green": {
     "en": "Green",
     "fr": "Vert",
     "de": "Grün"
   },
-  "qualities.blue": {
+  "quality.blue": {
     "en": "Blue",
     "fr": "Bleu",
     "de": "Blau"
   },
-  "qualities.purple": {
+  "quality.purple": {
     "en": "Purple",
     "fr": "Violet",
     "de": "Lila"
   },
-  "qualities.gold": {
+  "quality.gold": {
     "en": "Gold",
     "fr": "Dore",
     "de": "Gold"
