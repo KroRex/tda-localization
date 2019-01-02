@@ -469,87 +469,87 @@
   
   "trait.powered": {
     "en": "Powered",
-    "fr": "Powered",
+    "fr": "Energisé",
     "de": "Gestärkt"
   },
   "trait.charged": {
     "en": "Charged",
-    "fr": "Charged",
+    "fr": "Chargé",
     "de": "Geladen"
   },
   "trait.precise": {
     "en": "Precise",
-    "fr": "Precise",
+    "fr": "Précis",
     "de": "Präzise"
   },
   "trait.infused": {
     "en": "Infused",
-    "fr": "Infused",
+    "fr": "Infusé",
     "de": "Erfüllt"
   },
   "trait.defending": {
     "en": "Defending",
-    "fr": "Defending",
+    "fr": "Défenseur",
     "de": "Verteidigend"
   },
   "trait.training": {
     "en": "Training",
-    "fr": "Training",
+    "fr": "Entrainement",
     "de": "Lehrend"
   },
   "trait.sharpened": {
     "en": "Sharpened",
-    "fr": "Sharpened",
+    "fr": "Acéré",
     "de": "Geschärft"
   },
   "trait.decisive": {
     "en": "Decisive",
-    "fr": "Decisive",
+    "fr": "Décisif",
     "de": "Entschlossen"
   },
   "trait.sturdy": {
     "en": "Sturdy",
-    "fr": "Sturdy",
+    "fr": "Solide",
     "de": "Robust"
   },
   "trait.impenetrable": {
     "en": "Impenetrable",
-    "fr": "Impenetrable",
+    "fr": "Impénétrable",
     "de": "Undurchdringlich"
   },
   "trait.reinforced": {
     "en": "Reinforced",
-    "fr": "Reinforced",
+    "fr": "Renforcé",
     "de": "Verstärkt"
   },
   "trait.well-fitted": {
     "en": "Well-Fitted",
-    "fr": "Well-Fitted",
+    "fr": "Ajusté",
     "de": "Passgenau"
   },
   "trait.invigorating": {
     "en": "Invigorating",
-    "fr": "Invigorating",
+    "fr": "Revigorant",
     "de": "Belebend"
   },
   "trait.divines": {
     "en": "Divines",
-    "fr": "Divines",
+    "fr": "Divins",
     "de": "Göttlich"
   },
   "trait.nirnhoned": {
     "en": "Nirnhoned",
-    "fr": "Nirnhoned",
+    "fr": "Tempre de Nirn",
     "de": "Nirngeschliffen"
   },
   "trait.intricate": {
     "en": "Intricate",
-    "fr": "Intricate",
+    "fr": "Complexe",
     "de": "Intrikat"
   },
   "trait.ornate": {
     "en": "Ornate",
-    "fr": "Ornate",
+    "fr": "Orné",
     "de": "Verziert"
   },
   "trait.arcane": {
@@ -559,12 +559,12 @@
   },
   "trait.healthy": {
     "en": "Healthy",
-    "fr": "Healthy",
+    "fr": "Sain",
     "de": "Kräftigend"
   },
   "trait.robust": {
     "en": "Robust",
-    "fr": "Robust",
+    "fr": "Robuste",
     "de": "Robust"
   },
   "trait.special": {
@@ -574,27 +574,27 @@
   },
   "trait.bloodthirsty": {
     "en": "Bloodthirsty",
-    "fr": "Bloodthirsty",
+    "fr": "Assoiffé de sang",
     "de": "Blutdürstig"
   },
   "trait.harmony": {
     "en": "Harmony",
-    "fr": "Harmony",
+    "fr": "Harmonieux",
     "de": "Harmonisch"
   },
   "trait.protective": {
     "en": "Protective",
-    "fr": "Protective",
+    "fr": "Protecteur",
     "de": "Schützend"
   },
   "trait.swift": {
     "en": "Swift",
-    "fr": "Swift",
+    "fr": "Vif",
     "de": "Flink"
   },
   "trait.triune": {
     "en": "Triune",
-    "fr": "Triune",
+    "fr": "Triun",
     "de": "Dreifaltig"
   },
   
