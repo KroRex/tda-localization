@@ -33,7 +33,7 @@
   "language.warning.unknownLang": {
     "en": "The language you specified is unknown. The following languages are supported:\nen = English\nde = German\nfr = French\n\nSo use `!language en` for example.",
     "fr": "La langue spécifiée est inconnue. Les langues supportées sont :\nen = Anglais\nde = Allemand\nfr = Français\n\nUtilisez `!language fr` par exemple pour mettre le bot en français.",
-    "de": "Unbekannte Sprache. Folgende Sprachen werden unterstützt:\nen = Englisch\nde = Deutsch\nfr = Französisch\n\nBenutze zum Beispiel `!language de`."
+    "de": "Unbekannte Sprache angegeben. Folgende Sprachen werden unterstützt:\nen = Englisch\nde = Deutsch\nfr = Französisch\n\nBenutze zum Beispiel `!language de`."
   },
   "language.changed": {
     "en": "Language changed to: {{language}}",
@@ -450,7 +450,7 @@
     "fr": "Le Pas-des-Nuées",
     "de": "Wolkenruh"
   },
-  
+
   "subscriptions.title": {
     "en": "Current subscriptions",
     "fr": "Current subscriptions",
@@ -466,7 +466,7 @@
     "fr": "Seuls les administrateurs peuvent utiliser les commandes !subscriptions.",
     "de": "Der !subscriptions Befehl steht nur Administratoren zur Verfügung."
   },
-  
+
   "trait.powered": {
     "en": "Powered",
     "fr": "Energisé",
