@@ -98,7 +98,7 @@
   },
   "price.results.title": {
     "en": "Results for {{query}}",
-    "fr": "ésultat pour {{query}}",
+    "fr": "Résultat pour {{query}}",
     "de": "Suchergebnisse für {{query}}"
   },
 
