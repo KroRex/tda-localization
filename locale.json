@@ -2,49 +2,58 @@
   "pledges.todays": {
     "en": "Today's Pledges",
     "fr": "Serment d'Indomptable du jour",
-    "de": "Heutige Gelöbnisse"
+    "de": "Heutige Gelöbnisse",
+    "ru": "Обеты на сегодня"
   },
   "pledges.tomorrow": {
     "en": "Tomorrow",
     "fr": "Demain",
-    "de": "Morgen"
+    "de": "Morgen",
+    "ru": "Завтра"
   },
   "pledges.inDays": {
     "en": "Pledges in {{days}} days",
     "fr": "Pledges in {{days}} days",
-    "de": "Gelöbnisse in {{days}} Tagen"
+    "de": "Gelöbnisse in {{days}} Tagen",
+    "ru": "Обеты через {{days}} дня(ей)"
   },
 
   "language.warning.admin": {
     "en": "Only administrators can use the !language command.",
     "fr": "Seuls les administrateurs peuvent utiliser les commandes !language pour changer la langue de l'Automaton.",
-    "de": "Der !language Befehl steht nur Administratoren zur Verfügung."
+    "de": "Der !language Befehl steht nur Administratoren zur Verfügung.",
+    "ru": "Только администраторы могут использовать команду !language."
   },
   "language.title": {
     "en": "Language management",
     "fr": "Gestion de la langue du bot",
-    "de": "Spracheinstellungen"
+    "de": "Spracheinstellungen",
+    "ru": "Настройка языка"
   },
   "language.warning.noLang": {
     "en": "You did not specify a language. The following languages are supported:\nen = English\nde = German\nfr = French\n\nSo use `!language en` for example.",
     "fr": "Vous n'avez pas spécifié votre langue. Les langues supportées sont :\nen = Anglais\nde = Allemand\nfr = Français\n\nUtilisez `!language fr` par exemple pour mettre le bot en français.",
-    "de": "Keine Sprache angegeben. Folgende Sprachen werden unterstützt:\nen = Englisch\nde = Deutsch\nfr = Französisch\n\nBenutze zum Beispiel `!language de`."
+    "de": "Keine Sprache angegeben. Folgende Sprachen werden unterstützt:\nen = Englisch\nde = Deutsch\nfr = Französisch\n\nBenutze zum Beispiel `!language de`.",
+    "ru": "Вы не указали язык. Поддерживаются следующие языки: \nen = English\nde = German\nfr = French\nru = Russian\n\nПопробуйте, например, `!language ru`."
   },
   "language.warning.unknownLang": {
     "en": "The language you specified is unknown. The following languages are supported:\nen = English\nde = German\nfr = French\n\nSo use `!language en` for example.",
     "fr": "La langue spécifiée est inconnue. Les langues supportées sont :\nen = Anglais\nde = Allemand\nfr = Français\n\nUtilisez `!language fr` par exemple pour mettre le bot en français.",
-    "de": "Unbekannte Sprache angegeben. Folgende Sprachen werden unterstützt:\nen = Englisch\nde = Deutsch\nfr = Französisch\n\nBenutze zum Beispiel `!language de`."
+    "de": "Unbekannte Sprache angegeben. Folgende Sprachen werden unterstützt:\nen = Englisch\nde = Deutsch\nfr = Französisch\n\nBenutze zum Beispiel `!language de`.",
+    "ru": "Указан неподдерживаемый язык. Поддерживаются следующие языки: \nen = English\nde = German\nfr = French\nru = Русский\n\nПопробуйте, например, `!language ru`."
   },
   "language.changed": {
     "en": "Language changed to: {{language}}",
     "fr": "Langue changée en: {{language}}",
-    "de": "Sprache geändert auf: {{language}}"
+    "de": "Sprache geändert auf: {{language}}",
+    "ru": "Язык изменен на: {{language}}"
   },
 
   "price.instructions.title": {
     "en": "Price check instructions",
     "fr": "Instruction de vérification des prix",
-    "de": "Preis-Checks"
+    "de": "Preis-Checks",
+    "ru": "Инструкции для проверки цены"
   },
   "price.instructions.description": {
     "en": "You can search the database for item prices (pc only). Simply type `!price someitemname` and get the results. You can use quality and trait names as well to narrow down the search.",
@@ -54,141 +63,168 @@
   "price.instructions.qualities.title": {
     "en": "Available Qualities",
     "fr": "Qualité des objets disponible",
-    "de": "Verfügbare Qualitätsstufen"
+    "de": "Verfügbare Qualitätsstufen",
+    "ru": "Доступные уровни качества"
   },
   "price.instructions.traits.title": {
     "en": "Available Traits",
     "fr": "Traits d'objet disponible",
-    "de": "Verfügbare Eigenschaften"
+    "de": "Verfügbare Eigenschaften",
+    "ru": "Доступные трейты (особенности)"
   },
   "price.instructions.servers.title": {
     "en": "Servers",
     "fr": "Serveurs",
-    "de": "Server"
+    "de": "Server",
+    "ru": "Сервера"
   },
   "price.instructions.servers.description": {
     "en": "To search by server use `!priceeu` or `!pricena` instead of `!price`.",
     "fr": "Pour rechercher par serveur, utiliser `!priceeu` or `!pricena` à la place de `!price`.",
-    "de": "Verwende `!priceeu` oder `!pricena` statt `!price`, um nur EU bzw. NA Preise anzuzeigen."
+    "de": "Verwende `!priceeu` oder `!pricena` statt `!price`, um nur EU bzw. NA Preise anzuzeigen.",
+    "ru": "Для поиска по определенному серверу используйте '!priceeu' или '!pricena' вместо '!price'."
   },
   "price.footer.ttc": {
     "en": "Prices via TamrielTradeCentre.com",
     "fr": "Prix donnés via TamrielTradeCentre.com",
-    "de": "Preise via TamrielTradeCentre.com"
+    "de": "Preise via TamrielTradeCentre.com",
+    "ru": "Цены с TamrielTradeCentre.com"
   },
   "price.warning.tooShort": {
     "en": "Please use an item search query that is at least 4 characters long (excluding trait and/or quality).",
     "fr": "Merci d'utiliser des mots d'au moins 4 caractère pour vos recherches. (exceptés trait et/ou qualité).",
-    "de": "Deine Suchanfrage muss mindestens 4 Zeichen lang sein (ohne Eigenschaft und/oder Qualitätsstufe)."
+    "de": "Deine Suchanfrage muss mindestens 4 Zeichen lang sein (ohne Eigenschaft und/oder Qualitätsstufe).",
+    "ru": "Пожалуйста, введите больше 4 символов для поиска (не считая трейта и/иди качества)."
   },
   "price.warning.noResult.title": {
     "en": "No results found.",
     "fr": "Pas de résultat trouvé.",
-    "de": "Keine Suchergebnisse."
+    "de": "Keine Suchergebnisse.",
+    "ru": "Результаты не найдены."
   },
   "price.warning.tooManyResults.title": {
     "en": "Too many items, please narrow down your search",
     "fr": "Trop d'objets trouvés, merci de mieux spécifier votre recherche (trait et/ou qualité)",
-    "de": "Zu viele Suchergebnisse, bitte verfeinere deine Suchanfrage"
+    "de": "Zu viele Suchergebnisse, bitte verfeinere deine Suchanfrage",
+    "ru": "Слишком много предметов, пожалуйста, сузьте поиск"
   },
   "price.average": {
     "en": "Average price",
     "fr": "Prix moyen",
-    "de": "Durchschnittlich"
+    "de": "Durchschnittlich",
+    "ru": "Средняя цена"
   },
   "price.results.title": {
     "en": "Results for {{query}}",
     "fr": "Résultat pour {{query}}",
-    "de": "Suchergebnisse für {{query}}"
+    "de": "Suchergebnisse für {{query}}",
+    "ru": "Результаты да {{query}}"
   },
 
   "server.title": {
     "en": "ESO Server Status",
     "fr": "Statut des serveurs ESO",
-    "de": "ESO-Serverstatus"
+    "de": "ESO-Serverstatus",
+    "ru": "Статус серверов ESO"
   },
   "server.up": {
     "en": "Up",
     "fr": "Disponible",
-    "de": "Online"
+    "de": "Online",
+    "ru": "Работает"
   },
   "server.down": {
     "en": "Down",
     "fr": "Non disponible",
-    "de": "Offline"
+    "de": "Offline",
+    "ru": "Не работает"
   },
 
   "set.warning.tooShort": {
     "en": "Please use a set search query that is at least 4 characters long.",
     "fr": "Merci d'utiliser des mots d'au moins 4 caractères pour vos recherches.",
-    "de": "Deine Suchanfrage muss mindestens 4 Zeichen lang sein."
+    "de": "Deine Suchanfrage muss mindestens 4 Zeichen lang sein.",
+    "ru": "Пожалуйста, введите больше четырех символов в запросе."
   },
   "set.result.title": {
     "en": "Sets for search query {{query}}",
     "fr": "Sets de votre recherche {{query}}",
-    "de": "Suchergebnisse für {{query}}"
+    "de": "Suchergebnisse für {{query}}",
+    "ru": "Сеты по запросу {{query}}"
   },
   "set.warning.notFound.title": {
     "en": "No sets found for {{query}}",
     "fr": "Pas de sets trouvé pour {{query}}",
-    "de": "Keine Suchergebnisse für {{query}}"
+    "de": "Keine Suchergebnisse für {{query}}",
+    "ru": "Не обнаружены сеты по запросу {{query}}"
   },
   "set.warning.notFound.description": {
     "en": "Please try another search query.",
     "fr": "Merci d'essayer une autre recherche.",
-    "de": "Bitte versuche es mit einer anderen Suchanfrage."
+    "de": "Bitte versuche es mit einer anderen Suchanfrage.",
+    "ru": "Пожалуйста, попробуйте другой запрос для поиска."
   },
   "set.moreInfo": {
     "en": "Click here for more information",
     "fr": "Cliquez ici pour plus d'informations",
-    "de": "Klicke hier für mehr Informationen"
+    "de": "Klicke hier für mehr Informationen",
+    "ru": "Нажмите здесь, чтобы получить больше информации"
   },
 
   "skill.warning.tooShort": {
     "en": "Please use a skill search query that is at least 4 characters long.",
     "fr": "Merci d'utiliser des mots d'au moins 4 caractères pour vos recherches.",
-    "de": "Deine Suchanfrage muss mindestens 4 Zeichen lang sein."
+    "de": "Deine Suchanfrage muss mindestens 4 Zeichen lang sein.",
+    "ru": "Пожалуйста, введите больше четырех символов в запросе."
   },
   "skill.result.title": {
     "en": "Skills for search query {{query}}",
     "fr": "Compétences pour votre recherche {{query}}",
-    "de": "Suchergebnisse für {{query}}"
+    "de": "Suchergebnisse für {{query}}",
+    "ru": "Способности по запросу {{query}}"
   },
   "skill.warning.notFound.title": {
     "en": "No skills found for {{query}}",
     "fr": "Pas de sets trouvé pour {{query}}",
-    "de": "Keine Suchergebnisse für {{query}}"
+    "de": "Keine Suchergebnisse für {{query}}",
+    "ru": "Не найдены способности по запросу {{query}}"
   },
   "skill.warning.notFound.description": {
     "en": "Please try another search query.",
     "fr": "Merci d'essayer une autre recherche.",
-    "de": "Bitte versuche es mit einer anderen Suchanfrage."
+    "de": "Bitte versuche es mit einer anderen Suchanfrage.",
+    "ru": "Пожалуйста, попробуйте другой запрос для поиска."
   },
   "skill.moreInfo": {
     "en": "Click here for more information",
     "fr": "Cliquez ici pour plus d'informations",
-    "de": "Klicke hier für mehr Informationen"
+    "de": "Klicke hier für mehr Informationen",
+    "ru": "Нажмите здесь, чтобы получить больше информации"
   },
   "skill.active": {
     "en": "Active ability",
     "fr": "Compétence active",
-    "de": "Aktive Fertigkeit"
+    "de": "Aktive Fertigkeit",
+    "ru": "Активная способность"
   },
   "skill.passive": {
     "en": "Passive ability",
     "fr": "Compétence passive",
-    "de": "Passive Fertigkeit"
+    "de": "Passive Fertigkeit",
+    "ru": "Пассивная способность"
   },
   "skill.ultimate": {
     "en": "Ultimate ability",
     "fr": "Compétence ultime",
-    "de": "Ultimative Fertigkeit"
+    "de": "Ultimative Fertigkeit",
+    "ru": "Ультимативная способность"
   },
 
   "store.warning.tooShort": {
     "en": "Please use an item search query that is at least 4 characters long.",
     "fr": "Merci d'utiliser des mots d'au moins 4 caractères pour vos recherches.",
-    "de": "Deine Suchanfrage muss mindestens 4 Zeichen lang sein."
+    "de": "Deine Suchanfrage muss mindestens 4 Zeichen lang sein.",
+    "ru": "Пожалуйста, введите больше четырех символов в запросе."
   },
   "store.result.title": {
     "en": "Store items for search query {{query}}",
@@ -218,28 +254,33 @@
   "store.category": {
     "en": "Category",
     "fr": "Catégorie",
-    "de": "Kategorie"
+    "de": "Kategorie",
+    "ru": "Категория"
   },
   "store.price": {
     "en": "Price",
     "fr": "Prix",
-    "de": "Preis"
+    "de": "Preis",
+    "ru": "Цена"
   },
   "store.available": {
     "en": "Availability: available now",
     "fr": "Disponibilité : disponible maintenant",
-    "de": "Verfügbarkeit: Verfügbar"
+    "de": "Verfügbarkeit: Verfügbar",
+    "ru": "Доступность: доступно сейчас"
   },
   "store.unavailable": {
     "en": "Availability: currently not available",
     "fr": "Disponibilité : non diponible pour le moment",
-    "de": "Verfügbarkeit: Zur Zeit nicht verfügbar"
+    "de": "Verfügbarkeit: Zur Zeit nicht verfügbar",
+    "ru": "Доступность: на данный момент не доступно"
   },
 
   "subscribe.title": {
     "en": "Subscription management",
     "fr": "Gestion des abonnements",
-    "de": "Abonnementverwaltung"
+    "de": "Abonnementverwaltung",
+    "ru": "Управление подписками"
   },
   "subscribe.warning.admin": {
     "en": "Only administrators can use the !subscribe command.",
@@ -361,12 +402,14 @@
   "tda.add.title": {
     "en": "Add TDA to your own server!",
     "fr": "Ajouter l'Automaton Dwemer sur votre propre serveur!",
-    "de": "Füge TDA zu deinem eigenen Server hinzu!"
+    "de": "Füge TDA zu deinem eigenen Server hinzu!",
+    "ru": "Добавьте TDA на ваш собственный сервер!"
   },
   "tda.add.description": {
     "en": "Click here",
     "fr": "Cliquez ici",
-    "de": "Klicke hier"
+    "de": "Klicke hier",
+    "ru": "Нажмите здесь"
   },
   "tda.description.first": {
     "en": "The Dwemer Automaton version {{version}} by Alcast and Woeler.",
@@ -381,7 +424,8 @@
   "tda.translations": {
     "en": "Translations",
     "fr": "Traductions",
-    "de": "Übersetzungen"
+    "de": "Übersetzungen",
+    "ru": "Переводы"
   },
   "tda.translations.description": {
     "en": "French translation by {{french}}.\nGerman translation by {{german}}.",
@@ -392,53 +436,63 @@
   "weekly.title": {
     "en": "Weekly Trials",
     "fr": "Épreuves Hebdomadaires",
-    "de": "Wöchentliche Prüfungen"
+    "de": "Wöchentliche Prüfungen",
+    "ru": "Еженедельные испытания"
   },
   "weekly.eu": {
     "en": "Weekly Trial PC EU",
     "fr": "Épreuves Hebdomadaires PC EU (Europe)",
-    "de": "Wöchentliche Prüfung PC EU"
+    "de": "Wöchentliche Prüfung PC EU",
+    "ru": "Еженедельное испытание на PC EU"
   },
   "weekly.na": {
     "en": "Weekly Trial PC NA",
     "fr": "Épreuves Hebdomadaires PC NA (Amériques)",
-    "de": "Wöchentliche Prüfung PC NA"
+    "de": "Wöchentliche Prüfung PC NA",
+    "ru": "Еженедельное испытание на PC NA"
   },
 
   "Maelstrom Arena": {
     "en": "Maelstrom Arena",
     "fr": "L'Arène de Maelström",
-    "de": "Mahlstrom-Arena"
+    "de": "Mahlstrom-Arena",
+    "ru": "Вихревая Арена"
   },
   "Dragonstar Arena": {
     "en": "Dragonstar Arena",
     "fr": "L'Arène de l'Etoile du Dragon",
-    "de": "Drachenstern-Arena"
+    "de": "Drachenstern-Arena",
+    "ru": "Арена Драгонстар"
   },
   "Aetherian Archive": {
     "en": "Aetherian Archive",
     "fr": "L'Archive Aethérienne",
-    "de": "Ätherisches Archiv"
+    "de": "Ätherisches Archiv",
+    "ru": "Этерианский Архив"
   },
   "Hel Ra Citedel": {
     "en": "Hel Ra Citedel",
     "fr": "La Citadelle d'Hel-Ra",
-    "de": "Zitadelle von Hel Ra"
+    "de": "Zitadelle von Hel Ra",
+    "ru": "Цитадель Хель Ра"
   },
   "Sanctum Ophidia": {
     "en": "Sanctum Ophidia",
     "fr": "Sanctum Ophidia",
-    "de": "Sanctum Ophidia"
+    "de": "Sanctum Ophidia",
+    "ru": "Святилище Офидии"
   },
   "Maw of Lorkhaj": {
     "en": "Maw of Lorkhaj",
     "fr": "La Gueule de Lorkhaj",
-    "de": "Schlund von Lorkhaj"
+    "de": "Schlund von Lorkhaj",
+    "ru": "Пасть Лорхаджа"
   },
   "Halls of Fabrication": {
     "en": "Halls of Fabrication",
     "fr": "Les Salles de la Fabrication",
-    "de": "Hallen der Fertigung"
+    "de": "Hallen der Fertigung",
+    "ru": "Залы Фабрикации"
   },
   "Asylum Sanctorium": {
     "en": "Asylum Sanctorium",
@@ -448,18 +502,21 @@
   "Cloudrest": {
     "en": "Cloudrest",
     "fr": "Le Pas-des-Nuées",
-    "de": "Wolkenruh"
+    "de": "Wolkenruh",
+    "ru": "Клаудрест"
   },
 
   "subscriptions.title": {
     "en": "Current subscriptions",
     "fr": "Current subscriptions",
-    "de": "Aktuelle Abonnements"
+    "de": "Aktuelle Abonnements",
+    "ru": "Текущие подписки"
   },
   "subscriptions.none": {
     "en": "None",
     "fr": "None",
-    "de": "Keine"
+    "de": "Keine",
+    "ru": "Нет"
   },
   "subscriptions.warning.admin": {
     "en": "Only administrators can use the !subscriptions command.",
